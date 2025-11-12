@@ -1,0 +1,2 @@
+Criei este site usando HTML, CSS e JavaScript. Este projeto é uma calculadora com o tema do personagem McQueen, para fazer ela, precisei adicionar vários botões e contei com algumas ajudas no Java, que achei um pouco complicado mas acredito que consegui entender um pouco.
+Fazer a calculadora envolveu várias partes, mas não tem muito segredo para explicar. Personalizei as cores e o fundo, deixando o visual com a minha própria identidade.
